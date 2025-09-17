@@ -14,4 +14,4 @@ OR
 
 Step2: Simply, double click the appointment.py file and you are ready to go.
 
-This is a simple car booking system application for beginners.
+This is a simple car booking system application.
